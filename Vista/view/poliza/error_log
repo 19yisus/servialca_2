@@ -1,0 +1,376 @@
+[29-Jul-2023 00:07:51 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 00:07:51 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 00:08:05 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 00:08:05 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 00:43:55 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 00:43:55 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 06:10:44 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:10:44 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 06:10:57 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:10:57 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 06:11:55 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:11:55 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 06:16:15 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:16:15 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 06:20:23 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:20:23 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:25:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:25:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:28:00 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:28:00 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:28:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:28:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:34:38 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:34:38 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:34:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:34:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:36:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:36:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 09:39:35 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 09:39:35 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 10:30:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 10:30:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 10:32:36 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 10:32:36 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 10:46:24 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 10:46:24 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 10:46:24 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 10:46:24 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 10:47:47 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 10:47:47 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 10:47:47 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 10:47:47 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 10:49:29 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 10:49:29 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 10:49:29 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 10:49:29 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 11:19:27 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 11:19:27 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 11:19:27 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 11:19:27 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 11:29:55 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 11:29:55 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 11:29:55 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 11:29:55 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 11:30:00 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 11:30:00 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 11:30:00 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 11:30:00 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:08:01 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:08:01 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:08:28 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:08:28 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:09:56 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:09:56 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:10:40 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:10:40 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:13:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:13:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:17:02 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:17:02 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:20:19 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:20:19 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:20:35 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:20:35 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:22:37 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:22:37 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:24:57 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:24:57 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:25:44 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:25:44 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:52:40 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:52:40 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 13:55:54 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 13:55:54 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/index.php on line 3
+[29-Jul-2023 14:01:48 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "usuario" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "sucursal" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 791
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[29-Jul-2023 14:01:48 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 14:44:39 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 14:44:39 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 14:52:18 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 14:52:18 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 16:26:14 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 16:26:14 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 16:28:07 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 16:28:07 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 16:31:04 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 16:31:04 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[29-Jul-2023 17:34:12 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 17:34:12 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 08:10:16 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 08:10:16 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 08:43:10 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 08:43:10 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 08:43:36 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 08:43:36 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 10:15:02 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 10:15:02 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:12:05 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:12:05 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:47:23 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:47:23 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:48:22 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:48:22 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:51:36 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:51:36 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:55:07 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:55:07 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:55:13 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:55:13 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 11:55:28 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 11:55:28 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 12:43:02 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 12:43:02 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 12:48:33 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 12:48:33 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 12:53:45 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 12:53:45 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 14:11:13 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 14:11:13 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 14:11:45 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 14:11:45 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 20:19:31 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 20:19:31 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[30-Jul-2023 20:19:57 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[30-Jul-2023 20:19:57 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:04:56 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:04:56 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:07:04 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:07:04 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:08:21 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:08:21 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:08:41 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:08:41 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:10:27 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:10:27 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:15:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:15:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:16:18 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:16:18 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 03:16:39 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 03:16:39 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 06:40:00 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 06:40:00 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 06:41:35 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 06:41:35 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 07:43:59 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 07:43:59 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 09:03:57 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 09:03:57 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 09:23:00 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 09:23:00 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 09:35:22 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 09:35:22 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 10:04:01 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 10:04:01 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 10:41:46 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 10:41:46 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 11:18:35 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 11:18:35 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 11:18:45 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 11:18:45 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 11:32:21 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 11:32:21 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 11:32:30 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 11:32:30 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 12:51:56 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 12:51:56 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:23:15 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:23:15 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:28:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:28:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:35:24 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:35:24 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:35:30 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:35:30 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:36:27 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:36:27 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:39:28 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:39:28 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:40:43 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:40:43 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 13:51:47 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 13:51:47 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:00:50 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:00:50 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:07:27 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:07:27 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:10:00 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:10:00 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:14:39 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:14:39 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:19:43 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:19:43 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:26:03 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:26:03 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:33:10 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:33:10 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 14:57:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:57:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 15:10:09 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 15:10:09 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 15:10:20 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 15:10:20 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 15:55:15 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 15:55:15 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 16:11:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 16:11:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 16:28:23 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 16:28:23 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[31-Jul-2023 18:20:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 18:20:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:28:38 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:28:38 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:30:52 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:30:52 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:38:44 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:38:44 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/index.php on line 3
+[01-Aug-2023 07:39:24 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "usuario" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "sucursal" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 791
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[01-Aug-2023 07:39:24 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:40:30 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:40:30 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 07:46:47 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 07:46:47 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:13:35 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:13:35 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:21:34 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:21:34 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:33:01 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:33:01 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:35:40 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:35:40 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:37:09 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:37:09 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:49:18 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:49:18 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:49:18 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:49:18 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:51:31 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:51:31 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:56:25 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:56:25 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/index.php on line 3
+[01-Aug-2023 08:56:55 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "usuario" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "sucursal" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 791
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 792
+[01-Aug-2023 08:56:55 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 09:00:28 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:00:28 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 09:00:33 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:00:33 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 894
+[01-Aug-2023 09:04:05 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:04:05 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 870
+[01-Aug-2023 09:04:42 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:04:42 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/index.php on line 3
+[01-Aug-2023 09:04:58 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "usuario" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 144
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "sucursal" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 155
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "usuario_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 765
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined array key "sucursal_id" in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 766
+[01-Aug-2023 09:04:58 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:06:58 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:06:58 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:07:36 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:07:36 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:08:17 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:08:17 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:09:32 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:09:32 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:10:40 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:10:40 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:11:06 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:11:06 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:14:10 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:14:10 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:14:38 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:14:38 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:18:33 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:18:33 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:26:01 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:26:01 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:30:46 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:30:46 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:34:11 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:34:11 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:36:05 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:36:05 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:37:06 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:37:06 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:39:01 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:39:01 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:42:30 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:42:30 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:42:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:42:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:44:30 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:44:30 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:47:16 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:47:16 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:48:07 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:48:07 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:49:38 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:49:38 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:49:58 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:49:58 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:56:53 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:56:53 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:59:50 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:59:50 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 09:59:59 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 09:59:59 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:02:58 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:02:58 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:11:44 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:11:44 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:31:12 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:31:12 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:33:06 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:33:06 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:39:36 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:39:36 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 10:42:02 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:42:02 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 11:18:51 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 11:18:51 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 11:34:49 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 11:34:49 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 11:42:41 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 11:42:41 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 11:55:33 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 11:55:33 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 12:06:07 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 12:06:07 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 12:07:29 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 12:07:29 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 12:07:38 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 12:07:38 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 12:24:52 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 12:24:52 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 13:13:03 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 13:13:03 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 13:16:47 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 13:16:47 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 13:16:47 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 13:16:47 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868
+[01-Aug-2023 13:34:54 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 13:34:54 America/Caracas] PHP Warning:  Undefined variable $sucursal in /home/servialc/public_html/servialca2/Vista/view/poliza/formulario.php on line 868

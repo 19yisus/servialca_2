@@ -1,0 +1,6 @@
+[29-Jul-2023 00:39:41 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 00:40:17 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[29-Jul-2023 06:16:06 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:17:32 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[31-Jul-2023 14:30:31 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2
+[01-Aug-2023 10:40:37 America/Caracas] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/servialc/public_html/servialca2/Vista/include/menu.php on line 2

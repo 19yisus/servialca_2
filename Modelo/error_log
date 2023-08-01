@@ -1,0 +1,80 @@
+[29-Jul-2023 00:50:31 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(68): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:50:34 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(68): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:52:41 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(68): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:54:32 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(68): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:55:41 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(100): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:55:56 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(100): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:56:33 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(100): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:56:56 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(100): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 00:59:37 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(63): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 01:01:14 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:10
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(58): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 10
+[29-Jul-2023 01:01:51 America/Caracas] PHP Fatal error:  Uncaught Error: Class "Conexion" not found in /home/servialc/public_html/servialca2/Modelo/datosQR.php:11
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(59): QR->__construct()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 11
+[29-Jul-2023 01:02:49 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function generarQr() in /home/servialc/public_html/servialca2/Modelo/datosQR.php:20
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(69): QR->generarTodo()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 20
+[29-Jul-2023 01:03:21 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function generarQr() in /home/servialc/public_html/servialca2/Modelo/datosQR.php:20
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(69): QR->generarTodo()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 20
+[29-Jul-2023 01:03:56 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function generarQr() in /home/servialc/public_html/servialca2/Modelo/datosQR.php:20
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(69): QR->generarTodo()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 20
+[29-Jul-2023 01:07:19 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function generarQr() in /home/servialc/public_html/servialca2/Modelo/datosQR.php:20
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(69): QR->generarTodo()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 20
+[29-Jul-2023 01:07:52 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function generarQr() in /home/servialc/public_html/servialca2/Modelo/datosQR.php:21
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/datosQR.php(70): QR->generarTodo()
+#1 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/datosQR.php on line 21

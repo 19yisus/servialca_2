@@ -1,0 +1,479 @@
+[29-Jul-2023 00:46:10 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCVWEB.php(32): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 06:19:47 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[29-Jul-2023 06:19:47 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[29-Jul-2023 09:31:52 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[29-Jul-2023 09:31:52 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[29-Jul-2023 09:39:17 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`servialc_db2`.`poliza`, CONSTRAINT `poliza_ibfk_3` FOREIGN KEY (`estado_id`) REFERENCES `estado` (`estado_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:290
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(290): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(55): Poliza->registarPoliza()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(8): registrarPoliza()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 290
+[29-Jul-2023 09:41:41 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 16 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:446
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(446): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(5): Poliza->consultarUno()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 446
+[29-Jul-2023 09:41:50 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 16 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:446
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(446): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCVWEB.php(5): Poliza->consultarUno()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 446
+[29-Jul-2023 09:41:52 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 16 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:446
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(446): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/carnetRCV.php(5): Poliza->consultarUno()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 446
+[29-Jul-2023 10:37:12 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 10:37:12 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 10:37:15 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 10:37:15 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 10:37:25 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 10:37:25 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:35 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:35:35 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 100
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 101
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined variable $comision_bolivianos in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 103
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  Undefined array key "nota_monto" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 104
+[29-Jul-2023 13:35:36 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:35:36 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:36:41 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:36:41 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:37:05 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:37:05 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:37:06 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:37:06 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:37:09 America/Caracas] PHP Warning:  Undefined array key "Nombre" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 6
+[29-Jul-2023 13:37:09 America/Caracas] PHP Warning:  Undefined array key "Desde" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 6
+[29-Jul-2023 13:37:09 America/Caracas] PHP Warning:  Undefined array key "Hasta" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 6
+[29-Jul-2023 13:37:09 America/Caracas] PHP Warning:  getimagesize(../img/footer.jpg): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 1256
+[29-Jul-2023 13:37:09 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Missing or incorrect image file: ../img/footer.jpg in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(1258): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(889): FPDF->_parsejpg()
+#2 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(22): FPDF->Image()
+#3 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(285): PDF->Footer()
+#4 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(987): FPDF->Close()
+#5 /home/servialc/public_html/servialca2/Controlador/c_reporte.php(123): FPDF->Output()
+#6 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[29-Jul-2023 13:39:07 America/Caracas] PHP Warning:  Undefined array key "Nombre" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 5
+[29-Jul-2023 13:39:07 America/Caracas] PHP Warning:  Undefined array key "Desde" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 5
+[29-Jul-2023 13:39:07 America/Caracas] PHP Warning:  Undefined array key "Hasta" in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 5
+[29-Jul-2023 13:39:39 America/Caracas] PHP Warning:  Undefined variable $pdf in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:39:39 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:17 America/Caracas] PHP Warning:  Undefined variable $pdf in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:17 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:18 America/Caracas] PHP Warning:  Undefined variable $pdf in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:18 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:35 America/Caracas] PHP Warning:  Undefined variable $pdf in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:40:35 America/Caracas] PHP Fatal error:  Uncaught Error: Call to a member function Output() on null in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 29
+[29-Jul-2023 13:41:07 America/Caracas] PHP Fatal error:  Uncaught Error: Class "PDF" not found in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 8
+[29-Jul-2023 14:33:26 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'usuario_id' in where clause is ambiguous in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:371
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(371): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(70): Poliza->ConsultarTodo()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(28): consultarTodo()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 371
+[29-Jul-2023 16:32:51 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`servialc_db2`.`poliza`, CONSTRAINT `poliza_ibfk_3` FOREIGN KEY (`estado_id`) REFERENCES `estado` (`estado_id`) ON DELETE CASCADE ON UPDATE CASCADE) in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:290
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(290): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(55): Poliza->registarPoliza()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(8): registrarPoliza()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 290
+[30-Jul-2023 10:19:05 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[30-Jul-2023 10:19:05 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[30-Jul-2023 11:54:14 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:14 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:17 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:17 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:20 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:20 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[30-Jul-2023 11:54:42 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_fechaNacimiento' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:110
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(110): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 110
+[30-Jul-2023 11:54:47 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_fechaNacimiento' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:110
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(110): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 110
+[30-Jul-2023 11:54:59 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_fechaNacimiento' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:110
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(110): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 110
+[30-Jul-2023 20:22:49 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '5270' for key 'PRIMARY' in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:290
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(290): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(55): Poliza->registarPoliza()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(8): registrarPoliza()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 290
+[31-Jul-2023 08:58:08 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'usuario_id' in where clause is ambiguous in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:371
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(371): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(70): Poliza->ConsultarTodo()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(28): consultarTodo()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 371
+[31-Jul-2023 09:03:42 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'usuario_id' in where clause is ambiguous in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:371
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(371): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(70): Poliza->ConsultarTodo()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(28): consultarTodo()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 371
+[31-Jul-2023 09:36:29 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_egreso.php on line 29
+[31-Jul-2023 09:36:29 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_egreso.php on line 29
+[31-Jul-2023 13:51:40 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:51:40 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:51:42 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:51:42 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:51:57 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:51:57 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:52:47 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:52:47 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:53:54 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:53:54 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:53:59 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:53:59 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:05 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:05 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:12 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:12 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:17 America/Caracas] PHP Warning:  require_once(../modelo/m_cliente.php): Failed to open stream: No such file or directory in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 13:54:17 America/Caracas] PHP Fatal error:  Uncaught Error: Failed opening required '../modelo/m_cliente.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/reporteMedico.php on line 3
+[31-Jul-2023 14:34:00 America/Caracas] PHP Fatal error:  Uncaught Error: Class "PDF" not found in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 7
+[31-Jul-2023 14:34:08 America/Caracas] PHP Fatal error:  Uncaught Error: Class "PDF" not found in /home/servialc/public_html/servialca2/Controlador/c_reporte.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_reporte.php on line 7
+[31-Jul-2023 16:31:17 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[31-Jul-2023 16:31:17 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 387
+[01-Aug-2023 07:41:40 America/Caracas] PHP Warning:  Undefined array key 0 in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 161
+[01-Aug-2023 07:41:40 America/Caracas] PHP Warning:  Trying to access array offset on value of type null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 161
+[01-Aug-2023 08:47:15 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 08:47:20 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 08:47:39 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 09:15:58 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:16:07 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:16:12 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:16:18 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:20:28 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_registro' in 'where clause' in /home/servialc/public_html/servialca2/Modelo/m_egreso.php:70
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_egreso.php(70): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(34): Egreso->consultarTodos()
+#2 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(16): consultarTodos()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_egreso.php on line 70
+[01-Aug-2023 09:21:40 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_registro' in 'where clause' in /home/servialc/public_html/servialca2/Modelo/m_egreso.php:70
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_egreso.php(70): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(34): Egreso->consultarTodos()
+#2 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(16): consultarTodos()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_egreso.php on line 70
+[01-Aug-2023 09:21:51 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_registro' in 'where clause' in /home/servialc/public_html/servialca2/Modelo/m_egreso.php:70
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_egreso.php(70): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(34): Egreso->consultarTodos()
+#2 /home/servialc/public_html/servialca2/Controlador/c_egreso.php(16): consultarTodos()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_egreso.php on line 70
+[01-Aug-2023 09:32:41 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:36:47 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:36:54 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:40:10 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_telefono' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:43:07 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_correo' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 09:45:08 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'cliente_correo' cannot be null in /home/servialc/public_html/servialca2/Modelo/m_cliente.php:111
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_cliente.php(111): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(37): Cliente->buscarCliente()
+#2 /home/servialc/public_html/servialca2/Controlador/c_cliente.php(9): registrarMedico()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_cliente.php on line 111
+[01-Aug-2023 10:28:55 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 10:29:07 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 10:40:06 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 10:40:08 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCV.php(28): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 10:40:11 America/Caracas] PHP Fatal error:  Uncaught Exception: FPDF error: Image file name is empty in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php:273
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php(872): FPDF->Error()
+#1 /home/servialc/public_html/servialca2/Controlador/reporteRCVWEB.php(32): FPDF->Image()
+#2 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/FPDF/fpdf.php on line 273
+[01-Aug-2023 11:04:49 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function consultarMedico() in /home/servialc/public_html/servialca2/Controlador/c_cliente.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_cliente.php on line 33
+[01-Aug-2023 11:08:06 America/Caracas] PHP Fatal error:  Uncaught Error: Call to undefined function consultarMedico() in /home/servialc/public_html/servialca2/Controlador/c_cliente.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/servialc/public_html/servialca2/Controlador/c_cliente.php on line 33
+[01-Aug-2023 12:06:29 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'usuario_id' in where clause is ambiguous in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:371
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(371): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(70): Poliza->ConsultarTodo()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(28): consultarTodo()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 371
+[01-Aug-2023 12:06:53 America/Caracas] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'usuario_id' in where clause is ambiguous in /home/servialc/public_html/servialca2/Modelo/m_poliza.php:371
+Stack trace:
+#0 /home/servialc/public_html/servialca2/Modelo/m_poliza.php(371): PDOStatement->execute()
+#1 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(70): Poliza->ConsultarTodo()
+#2 /home/servialc/public_html/servialca2/Controlador/c_poliza.php(28): consultarTodo()
+#3 {main}
+  thrown in /home/servialc/public_html/servialca2/Modelo/m_poliza.php on line 371
