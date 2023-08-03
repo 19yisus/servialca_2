@@ -41,6 +41,7 @@ class Poliza extends Conexion
         $this->correo = isset($datos["Correo"]) ? $datos["Correo"] : null;
         $this->direccion = isset($datos["Direccion"]) ? $datos["Direccion"] : null;
         $this->estado = isset($datos["Estado"]) ? $datos["Estado"] : null;
+        $this->estado = ($this->estado == "a") ? 1 : 0;
         $this->usuario = isset($datos["Usuario"]) ? $datos["Usuario"] : null;
         $this->sucursal = isset($datos["Sucursal"]) ? $datos["Sucursal"] : null;
         $this->transporte = isset($datos["Transporte"]) ? $datos["Transporte"] : null;
@@ -384,11 +385,13 @@ class Poliza extends Conexion
         $sql = $this->conexion->prepare("SELECT * FROM preciodolar WHERE dolar_monto = ? AND dolar_fecha=?");
         $sql->execute([$precio, $fecha]);
         $resultado = $sql->fetchAll(PDO::FETCH_ASSOC);
-        $this->precioDolar = $resultado[0]["dolar_id"];
+        
         if (count($resultado) == 0) {
             $sql = $this->conexion->prepare("INSERT INTO preciodolar(dolar_monto,dolar_hora,dolar_fecha)VALUES(?,?,?)");
             $sql->execute([$precio, $hora, $fecha]);
             $this->precioDolar = $this->conexion->lastInsertId();
+        }else{
+            $this->precioDolar = $resultado[0]["dolar_id"];
         }
     }
 

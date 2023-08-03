@@ -1,10 +1,11 @@
 <?php
-require("FPDF/fpdf.php");
+require("./FPDF/fpdf.php");
 require("../Modelo/m_poliza.php");
 $a = new Poliza();
 $datos = $a->Reporte($_GET["Nombre"], $_GET["Desde"], $_GET["Hasta"]);
-
-$pdf = new PDF();
+var_dump($datos);
+die("dfd");
+$pdf = new FPDF();
 $pdf->AddPage();
 $pdf->SetFont('Arial', 'B', 16);
 $pdf->SetY(30);

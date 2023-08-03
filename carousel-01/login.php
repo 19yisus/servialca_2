@@ -218,7 +218,7 @@ if (isset($_GET['exit'])) {
   <script src="js/bootstrap.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/main.js"></script>
-  <script src="./fontawesome-free-6.4.0-web//js/all.js"></script>
+  <script src="./fontawesome-free-6.4.0-web/js/all.js"></script>
 </body>
 <script>
   $(document).ready(function() {

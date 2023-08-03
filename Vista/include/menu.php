@@ -1,5 +1,5 @@
 <?php
-session_start();
+// session_start();
 if (isset($_SESSION['permisos']) && is_array($_SESSION['permisos'])) {
     $permiso = $_SESSION["permisos"];
 } else {
